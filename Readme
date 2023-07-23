@@ -1,0 +1,6 @@
+dependencias:
+colors:
+npm install colors
+
+iniciar la app:
+npm start
